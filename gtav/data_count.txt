@@ -1,0 +1,21 @@
+Starting count:  360529
+
+W: 90380
+AW: 90380
+WD: 90380
+Nokey: 11253
+
+Balanced data:  282393
+
+
+A: 90380
+W: 90380
+S: 90380
+D: 90380
+WA: 90380
+WD: 90380
+SA: 90380
+SD: 90380
+NoKey: 90380
+Starting count:  360529
+Balanced data:  813420
